@@ -9,5 +9,5 @@ We have experimented with three environments in total:
 For all three environments we have tried solving them using `Advantage Actor-Critic (A2C)` algorithm. We have documented the whole project with the results in the `Report.pdf` file represent in the repository.
 
 **Collaborators:**
-- Anup Thakkar
+- Anuja Katkar
 - Sagar Thacker
